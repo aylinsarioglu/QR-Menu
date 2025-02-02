@@ -14,3 +14,6 @@
 - JavaScript (ES6+)
 - JSON Server
 # QR-Menu
+# Ekran Kaydı
+https://github.com/user-attachments/assets/b4062616-2a41-4f7f-9890-872ba0eb247d
+
